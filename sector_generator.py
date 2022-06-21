@@ -371,20 +371,15 @@ def get_world(x = '0101'):
     world = f'{coord} {uwp}  {bases} {trade} {zone}   {pbg} --'
     
     return world
-
-def inject(sec):
-    sector = sec
-    name = 'Teraat'
-    uwp = 'AY6'
     
-
 
 # Main Code Block
 ''' print list of system coordinates '''
 
-map_size = 'sector'
+map_size = 'sector' # accepts 'sector' for 32x40 grid, and 'subsector' for 8x10 grid.
+system_presence = '5' # sets chance for system presence where a system is present on a roll of n+ on 1d6.
 grid = map_gen(map_size)
-subsector = system_presence(grid, 5)
+subsector = system_presence(grid, system_presence)
 print(
     'Initializing League of the Road survey data...'
     )
