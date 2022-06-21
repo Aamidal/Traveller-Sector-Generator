@@ -27,7 +27,7 @@ def map_gen(map_size = 'subsector'):
 
     return grid
 
-def system_presence(subsector, n):
+def check_systems(subsector, n):
     ''' Accept (list, n) where n is the minimum dice value signifying system
         at coordinates. Check n against 1d6, return a list of coordinates
         containing a system'''
@@ -377,9 +377,9 @@ def get_world(x = '0101'):
 ''' print list of system coordinates '''
 
 map_size = 'sector' # accepts 'sector' for 32x40 grid, and 'subsector' for 8x10 grid.
-system_presence = '5' # sets chance for system presence where a system is present on a roll of n+ on 1d6.
+system_presence = 5 # sets chance for system presence where a system is present on a roll of n+ on 1d6.
 grid = map_gen(map_size)
-subsector = system_presence(grid, system_presence)
+subsector = check_systems(grid, system_presence)
 print(
     'Initializing League of the Road survey data...'
     )
