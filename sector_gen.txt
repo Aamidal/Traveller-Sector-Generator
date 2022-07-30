@@ -1,0 +1,418 @@
+Bale              0101 D8A38A9-7  S                    802 --
+Nar               0102 A9A4412-9    Ni                 302 --
+Islacolesh        0105 A338778-9  S                    803 --
+Ali               0110 D300100-4  S Ni                 605 --
+Mupur             0112 B76A559-8  N Ni                 201 --
+Sar               0120 B440432-B    Po Ni              405 --
+Hir               0121 C477742-9  S Ag                 123 --
+Al Halli          0125 B879111-B  N Ni                 622 --
+Chan              0126 D748A68-3    In                 224 --
+Bagaram           0127 D471655-4  S Ni                 113 --
+Sirinarman        0130 B543677-7    Po Ni              324 --
+Adi               0134 C200AAA-7  S In Na              905 --
+Tadi              0135 E98A687-5    Ri Ni              802 --
+Ma`Qu             0139 D794677-6    Ag Ni              502 --
+Peruzcekka        0202 A310579-B  N Ni                 603 --
+Biru              0203 C440344-A  S Po Ni              124 --
+Nekmet            0204 C663312-5  S Ni                 904 --
+Kha               0205 E9879DA-0                       103 --
+Nal               0211 EA68856-1    Ri                 715 --
+Kuta              0212 B682556-9  S Ni                 805 --
+`Amar             0218 C9A4233-8  S Ni                 505 --
+Abdaram           0222 BAA6742-8  N                    522 --
+Badipal           0224 C9B1230-7    Ni                 905 --
+Al Alhiren        0237 A775521-C  B Ag Ni              802 --
+Indavalgar        0240 D434453-6  S Ni                 504 --
+Kerlik            0306 A785963-7  N                    322 --
+Vidraganuk        0310 X000522-2    Ni                 123 --
+Kavur             0315 C346341-9    Ni                 325 --
+Chargudik         0321 D325211-5  S Ni                 104 --
+Topur             0324 C76A558-A  S Ni                 222 --
+All Qasbar        0327 D515865-5  S                    422 --
+Insur             0340 D310400-4    Ni                 604 --
+Mayru             0401 E7898CA-0                       215 --
+Nela              0402 C2248CA-6                       823 --
+Ghambroyal        0404 C667221-4  S Ni                 914 --
+Badumri           0410 C410300-6    Ni             A   623 --
+Saru              0417 X324444-4    Ni                 402 --
+Diyape            0423 EA96373-1    Ni                 123 --
+Fatna             0427 B664425-9  S Ni                 824 --
+Dhanah            0434 B310442-8  N Ni                 412 --
+Loutbadapu        0502 X777234-2    Ni                 825 --
+Yalapurrya        0503 E3409DA-0    In Po              403 --
+Sikhani           0505 B2319AA-A  N Po Na              723 --
+Sayasimand        0507 D564622-4  S Ag Ni              604 --
+Megalu            0513 C4868BA-9  S                    423 --
+Jha               0524 E666434-4    Ni                 824 --
+I`Zamudela        0528 E427667-1    Ni                 803 --
+Digraman          0529 D65668A-5  S Ag Ni              203 --
+Mangaratna        0532 C100466-C  S Ni                 204 --
+Suraveredu        0534 E555586-1    Ag Ni              804 --
+Salond            0601 EA7A351-4    Ni                 611 --
+Ar Korhanc        0602 D892A55-6  S In                 113 --
+Gan               0609 E434513-3    Ni                 102 --
+Chan              0614 D256587-5  S Ag Ni              925 --
+Gopeta            0615 C8B6424-7  S Ni                 603 --
+Der               0616 B487630-9    Ag Ni              813 --
+Abullemluk        0617 E584733-2    Ag                 814 --
+Param             0622 D54247A-5    Po Ni              903 --
+Islamampal        0627 B777134-9  B Ni                 411 --
+Sri               0629 C888458-6    Ni                 914 --
+Baluratpar        0631 C510946-4    In Na              625 --
+Bayya             0634 A100510-B  N Ni                 103 --
+Tsusash           0636 X75A100-5    Ni                 125 --
+Gali              0637 E376166-1    Ni                 102 --
+Bhi               0639 B200653-C  S Na Ni              804 --
+Sam               0701 E12088A-2    Po Na              703 --
+Yerla             0704 C400899-9    Na                 703 --
+Mennupudir        0705 X775843-0                       912 --
+Cuta              0706 A7A0320-9    Ni                 325 --
+Bal               0710 B8568A8-A  S                    203 --
+Mannanwara        0713 C535502-8  S Ni                 705 --
+Manapal           0714 D354532-7  S Ag Ni              112 --
+Undran            0715 D11069A-5    Na Ni              124 --
+Yukkarlach        0716 D7B1777-7                       704 --
+Kuk               0718 D510436-4  S Ni                 812 --
+Niyahak           0719 E7A0423-5    Ni                 824 --
+Dunthabhil        0722 C688789-7    Ri Ag              303 --
+Yella             0724 B8A8252-8    Ni                 802 --
+Guwah             0725 D511300-3    Ni                 605 --
+Chinagh           0729 BA8A966-8                       322 --
+Chat              0731 B000211-B  S Ni                 801 --
+Dikan             0803 B7A6586-9    Ni                 104 --
+Rat               0805 B5616BA-A    Ni                 124 --
+Hasa              0806 C7B0000-9  S Ni                 902 --
+Amraondram        0812 B110567-E  N Ni                 912 --
+Visanpuru         0813 B502378-B  N Ni                 603 --
+Kavarkired        0820 D757340-5    Ni                 304 --
+Karah             0824 D310656-8  S Na Ni              723 --
+Ijevengal         0826 X67799A-0    In                 902 --
+Penk              0829 B151ACA-C  S Po                 122 --
+Pagu              0831 E11056A-3    Ni                 605 --
+Ram               0835 C421AA6-7  S In Po Na           425 --
+Jhat              0836 B350A99-A  N Po                 722 --
+Shakotkent        0837 E322000-1    Po Ni              502 --
+Byuru             0902 E202110-6    Ni                 514 --
+Kannekkuru        0903 E769341-4    Ni                 524 --
+Patarahaba        0911 B484000-B  N Ni                 324 --
+Zawad             0912 CA89000-9  S Ni                 415 --
+Kon               0919 D7A4000-7    Ni                 124 --
+Mirmari           0921 B403366-9  N Ni                 603 --
+Domanakura        0930 D210168-6  S Ni                 725 --
+Brazda            0933 C590435-9    Ni                 403 --
+Sikin             0935 C8A3944-9                       825 --
+Bush              0937 E793375-2    Ni                 201 --
+Kadem             0938 X795A85-2    In                 413 --
+Karguba           0940 E223000-2    Po Ni              123 --
+Vijalgari         1006 X525557-0    Ni                 222 --
+Tuglapalla        1007 B523621-A    Po Na Ni           103 --
+Marusr            1009 B557698-7  B Ag Ni              223 --
+Silikur           1014 B428AA9-A    In                 913 --
+Meddipet          1015 B344564-B    Ag Ni              105 --
+Yazafrinna        1021 E8B3576-6    Ni                 813 --
+Kur               1022 D547100-2  S Ni                 914 --
+Nahburille        1023 C100302-A    Ni                 614 --
+Ajmenturan        1029 E593000-3    Ni                 505 --
+Reddi             1030 E564884-1    Ri                 723 --
+Nik               1037 B690764-9                       503 --
+Palummanis        1038 C84A568-A    Ni                 504 --
+Nazunta Pu        1040 B341148-A  S Po Ni              825 --
+Mahmasimor        1104 C256498-A  S Ni                 814 --
+Attipalgel        1105 C50077A-9  S Na                 122 --
+Khuram            1106 D6A4338-7  S Ni                 903 --
+Palgramadi        1107 C344456-9    Ni                 705 --
+Qushar            1108 E75A424-4    Ni                 423 --
+Ardarag           1110 C685420-4    Ni                 803 --
+Guddandini        1113 X68A100-2    Ni                 122 --
+Impethirsi        1114 A56A779-A    Ri                 623 --
+Bigada            1115 D4417B8-5  S Po                 422 --
+Mad               1117 X656545-0    Ag Ni              203 --
+Kirtalagad        1119 D5A0444-6  S Ni                 802 --
+Satya             1125 A33379A-A  S Po Na              611 --
+Mara              1129 E683874-1    Ri                 721 --
+Shanigna          1133 E690861-2                       522 --
+Thipata           1134 C320434-B    Po Ni              512 --
+Nebbayab          1135 CAA688A-4                       124 --
+Naur              1138 B410665-A  B Na Ni          A   825 --
+Serzul            1202 D404478-6    Ni                 113 --
+Dindrag           1203 D64A446-7    Ni                 211 --
+Kirpur            1204 C482000-7  S Ni                 203 --
+Kuntollugl        1207 E452121-5    Po Ni              104 --
+Derumkob          1211 X475210-3    Ni                 112 --
+Dhampur           1213 E888465-5    Ni                 724 --
+Kan               1214 E785656-4    Ri Ag Ni           404 --
+Daykoly           1217 B550200-8  N Po Ni              323 --
+Vereswara         1220 B10069A-B  N Na Ni              824 --
+Hanandapar        1223 C893555-4  S Ni                 204 --
+Nad               1231 C967200-9  S Ni                 602 --
+Tsoorasim         1233 D548866-5                       505 --
+Karsa             1234 C547637-7    Ag Ni              114 --
+Vize              1237 C000452-8    Ni                 223 --
+Bhuna Payk        1238 A400246-A  N Ni                 124 --
+Gungaredi         1301 BA7A788-B                       912 --
+Canpuratak        1305 E000421-8    Ni                 112 --
+Kot               1310 C565000-7    Ni                 323 --
+Cizafabada        1311 C7C7333-A  S Ni                 803 --
+Kondur            1313 C430862-6    Po Na              323 --
+Beawarmisa        1314 D3269B8-5    In                 713 --
+Edla              1320 E561668-0    Ri Ni              423 --
+Nizazawari        1322 C224430-7    Ni                 325 --
+Ket As            1328 C676743-8    Ag                 303 --
+Mand              1332 C24068A-7    Po Ni              313 --
+Jigalpuri         1333 A75498A-A  B                    413 --
+Sakdwipava        1334 X000557-3    Ni                 923 --
+Shatta            1336 E9A9330-4    Ni                 101 --
+Ras               1338 X303222-4    Ni                 202 --
+Kar               1340 B223255-A  N Po Ni              312 --
+Narazapade        1403 C6578DA-5                       714 --
+Khakpur           1405 E5427CA-0    Po                 724 --
+Hebpuru           1410 B690862-A                       224 --
+Ram               1413 C345588-5  S Ag Ni          A   805 --
+Jitadu            1415 AACA320-C    Ni                 824 --
+Iarabadinn        1416 E000769-3    Na                 501 --
+Kah               1420 B454377-7  B Ni                 223 --
+Chi               1422 E310673-3    Na Ni              305 --
+Kolademli         1425 E687335-2    Ni                 303 --
+Taramandad        1426 C4608BA-4                       523 --
+Edlagalaga        1428 C793737-7                       723 --
+Kansim            1435 C437267-B    Ni                 301 --
+Bar               1437 C51468A-7    Ni                 303 --
+Molu              1440 A404000-B    Ni                 804 --
+Ramgulayam        1501 C565578-9    Ag Ni              204 --
+Dumjo Mand        1503 EAB6246-2    Ni                 803 --
+Tontukur          1505 CAC7357-9    Ni                 804 --
+Bar               1508 C426421-A    Ni                 412 --
+Ellesha           1509 E989301-4    Ni                 523 --
+Idi               1511 DAB4666-6    Ni                 824 --
+Bad               1517 X564786-1    Ri Ag              304 --
+Thoru             1519 C311000-7    Ni                 803 --
+Udi               1520 D9A76AA-3    Ni                 705 --
+Nimarvenda        1521 C110655-6    Na Ni              812 --
+Sur               1525 A21138A-B    Ni                 323 --
+Inkurganap        1531 C65A315-9  S Ni                 414 --
+Khuthed           1532 B7B17B9-6  S                    722 --
+Orth Tari         1534 EAB1247-1    Ni                 523 --
+Sam               1535 D889558-8  S Ni                 103 --
+Jawal             1540 D446443-4    Ni                 603 --
+Dhuputbat         1601 D885665-6  S Ri Ag Ni           724 --
+Bodambha          1607 B200426-B  N Ni                 704 --
+Kotha             1615 C352896-7    Po                 924 --
+Podevenupa        1618 D425665-8  S Ni                 305 --
+Chishipuru        1622 A58379A-A  S Ri                 402 --
+Tadavoluko        1623 B452645-A  N Po Ni              612 --
+Sani              1625 A447585-D  S Ag Ni              803 --
+Man `Arddi        1629 C252444-8  S Po Ni              621 --
+Nasti             1634 E401734-6    Na                 602 --
+Mir               1635 C1009CA-7  S In Na              224 --
+Addiprola         1636 C312ACA-A    In Na              222 --
+Penipala          1637 E727ACA-3    In                 224 --
+Kotluri           1705 D787620-3  S Ag Ni              804 --
+Arnattapal        1708 A565972-B  B                    813 --
+Undra`A           1709 X585763-0    Ri Ag              105 --
+Chiruzda          1710 EAA8100-5    Ni                 703 --
+Ghoga             1714 C976620-3  S Ag Ni              222 --
+Banayn            1716 DAC7223-4    Ni                 811 --
+Az Zubabhi        1717 A577454-9    Ni                 223 --
+Kar               1718 E453655-3    Po Ni              723 --
+Umram Qarb        1727 B658231-A    Ni                 325 --
+Gus               1728 B8889AA-9                       925 --
+Elapallipr        1731 C000867-6    Na                 603 --
+Tavi              1736 X656434-0    Ni                 213 --
+Hapalpur          1737 A3325AA-A    Po Ni              902 --
+Paldillidd        1738 A334476-D  N Ni                 113 --
+Kagadevann        1740 X887745-0    Ri Ag              623 --
+Men               1801 E858555-2    Ag Ni              505 --
+Veli              1806 B667343-7  N Ni                 825 --
+Devad             1812 E20069A-3    Na Ni              624 --
+Araspurpur        1815 E000252-8    Ni                 104 --
+Namuri            1819 E584556-4    Ag Ni              103 --
+Jasa              1821 B301567-A  N Ni                 604 --
+Kajam             1822 B76787A-6  S Ri                 613 --
+Virugoripu        1823 E757877-2                       813 --
+Banj              1824 E230776-1    Po Na              502 --
+Amahakpura        1825 E446458-2    Ni                 913 --
+Latra             1828 C6427A5-8  S Po                 125 --
+Bautambas         1832 B658556-9  B Ag Ni              924 --
+Sarpathpur        1834 C74A555-7    Ni                 222 --
+Calu              1905 C000674-7    Na Ni              924 --
+Mur               1907 D6A5495-7  S Ni                 404 --
+Jat               1911 C7B4202-A    Ni                 923 --
+Qunpuru           1913 E321340-2    Po Ni              904 --
+Renagabayb        1915 D210235-9  S Ni                 402 --
+Rawanagopi        1920 C000000-A    Ni                 602 --
+Bangapad          1921 E791773-4                       321 --
+Ayvanosimk        1926 B694203-6  S Ni                 613 --
+Sak               1927 D457333-6  S Ni                 512 --
+Matakkandi        1931 X556454-0    Ni                 823 --
+Ra'S Suska        1935 C0008AA-A    Na                 103 --
+Ardipalpad        1938 X638577-4    Ni                 602 --
+Bela              2002 C110776-A    Na                 903 --
+Cum               2005 A757455-C    Ni                 813 --
+Tehpur            2009 B648437-9    Ni                 221 --
+Ellinamarv        2010 C889859-8    Ri                 521 --
+Bhuksimber        2013 A421201-D    Po Ni              313 --
+Kishinnepa        2015 D101141-8    Ni                 623 --
+Nana              2023 D758358-5    Ni                 723 --
+Yerambis          2026 C965100-6  S Ni                 523 --
+Dattipurde        2027 X8C3520-2    Ni                 124 --
+Rairu             2030 B310897-A  N Na                 814 --
+Hommaramal        2032 C100334-C    Ni                 323 --
+Nam               2034 E527678-3    Ni                 322 --
+Kultulsuda        2035 E302110-7    Ni                 821 --
+Bhalgar           2038 D3437CA-3  S Po                 704 --
+Jaridivan         2103 A483677-A  S Ri Ni              404 --
+Kotipur           2106 C564778-3  S Ri Ag              705 --
+Sahi              2107 B576676-7    Ag Ni              813 --
+Manamayann        2109 B868411-9  N Ni                 502 --
+Kangazaram        2110 C97A212-7    Ni                 225 --
+Kotaliga          2112 D444000-6    Ni                 122 --
+Bezundispu        2114 C234950-9                       223 --
+Raurrundar        2117 B64868A-A  B Ag Ni              823 --
+Amrah             2118 B538424-B    Ni                 411 --
+Zawarapadr        2120 D460247-3  S Ni                 723 --
+Tadbulumur        2123 X351556-2    Po Ni              124 --
+Atandwipet        2124 B462547-7    Ni                 313 --
+Koha              2125 B41079A-A  N Na                 324 --
+Bellamanch        2126 B2608DA-7  S                    515 --
+Pandiyan          2127 AAC3520-D  S Ni                 823 --
+Secighali         2129 C144000-5  S Ni                 914 --
+Hosur             2202 C5648CA-5                       502 --
+Suru              2203 D263456-6  S Ni                 324 --
+Peni Tinna        2204 B000ACA-B    In Na              223 --
+Al Medayip        2208 C558331-8  S Ni                 101 --
+Ale               2212 X470778-0                       522 --
+Abyalore          2219 X22327A-1    Po Ni              703 --
+Bagurd            2223 EA7A844-1                       305 --
+Ram               2224 C535100-9  S Ni                 622 --
+Sallapalpu        2227 C000ADA-B    In Na              303 --
+Tezpuli           2229 E76A97A-5                       815 --
+Patikalaca        2232 C221456-B  S Po Ni              924 --
+Memecukshi        2238 C8C578A-9  S                    524 --
+Gokadi            2240 C586488-6    Ni                 901 --
+Tulur             2303 C75A434-8    Ni                 102 --
+Gan               2305 C584213-8  S Ni                 123 --
+Canta             2311 C564533-6  S Ag Ni              923 --
+Digirli           2312 C510122-8    Ni                 625 --
+Kulior Ras        2314 C7A0643-4  S Ni                 805 --
+Qatlu             2316 B616126-B  B Ni                 801 --
+Mungaz            2318 C221220-6    Po Ni              102 --
+Kas               2322 E61059A-4    Ni                 103 --
+Garti             2323 C30048A-9    Ni                 212 --
+Simkota An        2324 C546676-3  S Ag Ni              902 --
+Thila             2326 E66A331-5    Ni                 124 --
+Pennu             2327 D577521-5  S Ag Ni              625 --
+Jagupetamk        2328 D000468-5    Ni                 722 --
+Malankanam        2335 D86A123-4    Ni                 923 --
+As Shamanp        2337 D9C867A-5    Ni                 703 --
+Kot               2338 D79398A-1    In                 902 --
+Ban               2340 E557535-2    Ag Ni              512 --
+Masabk            2402 B634786-7  S                    102 --
+Tarajshata        2407 C442778-9  S Po                 214 --
+Urai              2410 B300487-B  N Ni                 802 --
+Matmalka          2415 D23078A-4    Po Na              313 --
+Jejee             2417 C992103-5    Ni                 211 --
+Chiwellish        2425 B20068A-A  S Na Ni              903 --
+Madbukolah        2437 A693000-B    Ni                 603 --
+Ethpurya          2507 A400886-E    Na                 412 --
+Gujahrolaz        2510 E775455-3    Ni                 823 --
+Golleg            2512 C74A998-9    In                 104 --
+Bili              2513 A564133-8    Ni                 924 --
+Al Malucuk        2515 E356447-3    Ni             A   804 --
+Kar               2516 C535401-A  S Ni                 622 --
+Sondigur          2519 E201125-5    Ni                 501 --
+Naspurlaba        2520 B655000-6  N Ni                 904 --
+Beli              2521 C683347-9    Ni                 312 --
+Kasla             2523 C424102-6    Ni                 325 --
+Gospur            2528 D838221-6  S Ni                 822 --
+Tetalhali         2529 C557100-7  S Ni                 103 --
+Har               2532 D65A753-5  S                    423 --
+Sinta             2533 B233241-8  N Po Ni              923 --
+Nal               2534 C490544-A    Ni                 624 --
+Damuderzuy        2537 A8A0000-C  N Ni                 602 --
+Cinnagir          2607 B95A7AA-A  N                    313 --
+Obu Swahur        2610 E341301-4    Po Ni              724 --
+Panagidyal        2612 C462525-A    Ni                 823 --
+Korummarni        2618 C532A96-8  S Po Na              123 --
+Mugundla          2619 E75A747-4                       722 --
+Yaziftlika        2620 D484533-3  S Ag Ni              322 --
+Qad               2621 C545100-6    Ni                 722 --
+Nijah             2622 E9C6957-1                       804 --
+Lah               2624 X616423-4    Ni                 803 --
+Ummapur           2631 B767240-B    Ni                 823 --
+Ita               2635 C886553-4    Ag Ni              824 --
+Nad               2636 B524554-7  B Ni                 505 --
+Talpalyang        2637 E423320-7    Po Ni              905 --
+Muhavalake        2640 E8B4342-6    Ni                 322 --
+Nalle             2704 D433684-7  S Po Na Ni           602 --
+Ballis            2705 E9CA89A-2                       104 --
+Bat               2710 B120735-C  B Po Na              703 --
+Elle              2711 C6A08C7-6  S                    813 --
+Kishibihat        2712 B300557-A  S Ni                 724 --
+Bihli             2717 A200598-D    Ni                 501 --
+Banpazaman        2719 A8668A7-7                       422 --
+Digola            2721 D332561-8    Po Ni              801 --
+Galloru           2723 D578579-3    Ag Ni              402 --
+Ungadi            2728 X889546-0    Ni                 623 --
+Bham              2733 C00068A-8    Na Ni              925 --
+Duruldhava        2803 B7A0520-A  N Ni                 413 --
+Cheddan           2806 D574352-5  S Ni                 814 --
+Katnageraa        2811 C360200-9  S Ni                 511 --
+Al Qaresko        2817 B00078A-D  N Na                 313 --
+Kozegamgul        2822 E575211-3    Ni                 813 --
+Derreglipu        2828 B541112-6  N Po Ni              301 --
+Duzli             2833 E755764-0    Ag                 724 --
+Zaba              2837 B473565-9  B Ni                 624 --
+Sinda             2901 D302310-6    Ni                 205 --
+Dayr Alaig        2906 D264250-5  S Ni                 802 --
+Chanchateh        2909 A342220-E    Po Ni              413 --
+Busartampu        2911 BAB6668-8  S Ni                 503 --
+Yeldi             2915 B677679-7  N Ag Ni              202 --
+Kirmall Le        2924 C675674-5  S Ag Ni              524 --
+Amarramphe        2926 C464311-9    Ni                 702 --
+Al Saipuru        2932 D200799-3  S Na                 623 --
+Muru              2934 A110200-F    Ni                 702 --
+Timpurchan        2936 B445510-C  S Ag Ni              724 --
+Bhampurgur        2937 XA89100-0    Ni                 121 --
+Utur              2938 E624530-1    Ni                 703 --
+Belam             2940 E9AA595-4    Ni                 604 --
+Gut               3001 E321150-7    Po Ni              102 --
+Nigut             3008 A243430-D    Po Ni              413 --
+Ajmidyapat        3011 D666897-2    Ri                 903 --
+Alghulkur         3013 B896221-8  S Ni                 922 --
+Charmapur         3017 E54479A-3    Ag                 225 --
+Bel               3019 C333448-9    Po Ni              414 --
+Mir               3021 B435540-D  N Ni                 825 --
+Kria              3022 D73997A-4                       424 --
+Bhanga            3023 B335430-B    Ni                 623 --
+Cifontakan        3024 C610557-9  S Ni                 304 --
+Kuni              3028 C836264-9    Ni                 922 --
+Kolu              3033 B57977A-9                       624 --
+Kah               3039 D210698-6    Na Ni              614 --
+Umanagarjo        3102 B0008B6-C    Na                 823 --
+Petamapur         3103 C613457-6    Ni                 111 --
+Banbaricha        3105 C590AAA-9  S In                 721 --
+Rutammudep        3106 C543365-6    Po Ni              523 --
+Sidandapin        3109 C854000-3    Ni                 704 --
+Manipuldir        3112 B2237CA-9    Po Na              304 --
+Manj              3125 D687740-4  S Ri Ag          A   503 --
+Kam               3126 B667587-8    Ag Ni              802 --
+Viri              3127 A648442-8    Ni                 522 --
+Chavar            3134 C774841-6                       515 --
+Rada              3139 B78A422-A  S Ni                 902 --
+Maihapur          3201 X676450-0    Ni                 623 --
+Gujrambara        3202 E8C8258-3    Ni                 504 --
+Meng              3209 D300454-7    Ni                 902 --
+Kodhan            3213 E756222-3    Ni                 624 --
+Vino Ist          3215 C134300-7  S Ni                 201 --
+Al Al Jand        3220 C567624-3    Ag Ni              522 --
+Madapet           3222 C587431-7    Ni                 924 --
+Arapathall        3227 C410333-7    Ni                 523 --
+Charkala          3228 E344444-2    Ni                 323 --
+Masi              3229 B77A745-7                       503 --
+Bas               3230 B577787-7  B Ag                 722 --
+Busehra           3231 A200573-A  N Ni                 205 --
+Ashandhind        3233 DAB6344-7    Ni                 224 --
+Munta             3235 C336434-8  S Ni                 714 --
+Pedda Pode        3238 X447375-3    Ni                 623 --
+Al `Aynam         3239 X200452-0    Ni                 502 --
+Begra             3240 C463621-9    Ni                 214 --
