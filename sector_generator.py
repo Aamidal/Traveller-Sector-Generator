@@ -1,6 +1,6 @@
  #system_presence.py
- 
 from random import randint, choice
+import requests
 
 
 def roll_dice(x = 1):
@@ -385,6 +385,11 @@ def save_data(sector_data, file = 'sector_gen.txt'):
     f.close()
     print("Data saved to" + file)
 
+    sec_map = open(file, 'r')
+    export_map(sec_map)
+    sec_map.close()
+
+
 def print_grid_results(map_size, sector):
     """
     Output world count and hex numbers with system presence
@@ -424,6 +429,29 @@ def new_sector(map_size = "sector", system_presence = 5, verbose = True):
     generate_worlds(sector)
     save_data(generate_worlds(sector))
 
+def export_map(sector_data):
+    """
+    Exports sector data to https://travellermap.com/make/poster and returns an
+    image in pdf format
+    """
+    url = "https://travellermap.com/api/poster"
+    params = { 
+        'accept': 'application/pdf',
+        'options': '25591',
+        'style': 'poster'
+         }
+    headers = {
+        'Content-Type': 'text/plain',
+    }
+    response = requests.post(url, data = sector_data, json = None, params = params, headers = headers)
+
+    print(response.url)
+
+    with open('sector_map.pdf', 'wb') as f:
+        f.write(response.content)
+    f.close()
+
+    print("Map exported to sector_map.pdf")
 
 # Main Code Block
 
