@@ -192,7 +192,7 @@ def new_name():
     if name not in blacklist:
         return name
     else:
-        new_name()
+        return new_name()
 
 def generate_names(num = 25):
     """
