@@ -1,5 +1,6 @@
  #system_presence.py
 from random import randint, choice
+from lib.namegen import new_name
 import requests
 
 
@@ -113,8 +114,10 @@ def get_world(x = '0101'):
      6: 'D', 7 : 'V', 8: 'V', 9: 'VI', 10: 'D', 11: 'D', 12: 'D'
     }
 
+    name = str(new_name(15)).ljust(17)
+
     # System hex number
-    coord = x.rjust(18)
+    coord = x
 
     # Starport assigned a class based on 2d6 roll.
     starport = portclass[roll_dice(2)]
@@ -369,7 +372,7 @@ def get_world(x = '0101'):
 
     # Let's make it pretty. Format the world and it's hex coordinate in GENIE
     # format to be used on travellermap.com
-    world = f'{coord} {uwp}  {bases} {trade} {zone}   {pbg} --'
+    world = f'{name} {coord} {uwp}  {bases} {trade} {zone}   {pbg} --'
     
     return world
 
@@ -383,7 +386,7 @@ def save_data(sector_data, file = 'sector_gen.txt'):
         f.write(x + '\n')
 
     f.close()
-    print("Data saved to" + file)
+    print("Data saved to " + file)
 
     sec_map = open(file, 'r')
     export_map(sec_map)
@@ -454,7 +457,6 @@ def export_map(sector_data):
     print("Map exported to sector_map.pdf")
 
 # Main Code Block
-
-new_sector()
-
-input("Press enter to quit...")
+if __name__ == "__main__":
+    new_sector()
+    input("Press enter to quit...")
