@@ -1,6 +1,7 @@
  #system_presence.py
-
+ 
 from random import randint, choice
+
 
 def roll_dice(x = 1):
     '''Roll x 6 sided dice, return the sum.'''
@@ -371,35 +372,61 @@ def get_world(x = '0101'):
     world = f'{coord} {uwp}  {bases} {trade} {zone}   {pbg} --'
     
     return world
-    
+
+def save_data(sector_data, file = 'sector_gen.txt'):
+    """
+    Exports sector_data to text file, accepts an optional file name.
+    """
+    f = open(file, 'w')
+    for x in sector_data:
+        print(x)
+        f.write(x + '\n')
+
+    f.close()
+    print("Data saved to" + file)
+
+def print_grid_results(map_size, sector):
+    """
+    Output world count and hex numbers with system presence
+    """
+    print(
+    '''
+    Initializing League of the Road survey data...
+    Pulling up-to-date travel advisories from the Society of Many Journeys...
+    '''
+    )
+    print("The following hexes contain notable systems: " + ' '.join(sector))
+    print(
+        "For a total of:", str(len(sector)), "systems in the", map_size.lower() +
+        ':'
+        )
+
+def generate_worlds(sector):
+    """
+    Accepts a list of coordinates and assigns a randomly generated world to each
+    """
+    sector_data = []
+    for x in sector:
+        world = (get_world(x))
+        sector_data.append(world)
+    return sector_data
+
+def new_sector(map_size = "sector", system_presence = 5, verbose = True):
+    '''
+    map_size accepts accepts 'sector' for 32x40 grid, and 'subsector' for 8x10 grid.
+    system_presence sets chance for system presence where a system is present 
+    on a roll of n+ on 1d6.
+    Prints hex numbers and world count if verbose flag = true
+    '''
+    sector = check_systems(map_gen(map_size), system_presence)
+    if verbose == True:
+        print_grid_results(map_size, sector)
+    generate_worlds(sector)
+    save_data(generate_worlds(sector))
+
 
 # Main Code Block
-''' print list of system coordinates '''
 
-map_size = 'sector' # accepts 'sector' for 32x40 grid, and 'subsector' for 8x10 grid.
-system_presence = 5 # sets chance for system presence where a system is present on a roll of n+ on 1d6.
-grid = map_gen(map_size)
-subsector = check_systems(grid, system_presence)
-print(
-    'Initializing League of the Road survey data...'
-    )
-print(
-    'Pulling up-to-date travel advisories from the Society of Many Journeys...'
-    )
-print("The following hexes contain notable systems: " + ' '.join(subsector))
-print(
-    "For a total of:", str(len(subsector)), "systems in the", map_size.lower() +
-    ':'
-    )
-subsector_data = []
-for x in subsector:
-    world = (get_world(x))
-    subsector_data.append(world)
+new_sector()
 
-f = open('sector_gen.txt', 'w')
-for x in subsector_data:
-    print(x)
-    f.write(x + '\n')
-
-f.close()
-print("Data saved to sector_gen.txt")
+input("Press enter to quit...")
