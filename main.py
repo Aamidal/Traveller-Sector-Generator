@@ -376,7 +376,7 @@ def get_world(x = '0101'):
     
     return world
 
-def save_data(sector_data, file = 'sector_gen.txt'):
+def save_data(sector_data, map_size, file = 'sector_gen.txt'):
     """
     Exports sector_data to text file, accepts an optional file name.
     """
@@ -389,7 +389,7 @@ def save_data(sector_data, file = 'sector_gen.txt'):
     print("Data saved to " + file)
 
     sec_map = open(file, 'r')
-    export_map(sec_map)
+    export_map(sec_map, map_size)
     sec_map.close()
 
 
@@ -430,9 +430,9 @@ def new_sector(map_size = "sector", system_presence = 5, verbose = True):
     if verbose == True:
         print_grid_results(map_size, sector)
     generate_worlds(sector)
-    save_data(generate_worlds(sector))
+    save_data(generate_worlds(sector), map_size)
 
-def export_map(sector_data):
+def export_map(sector_data, map_size):
     """
     Exports sector data to https://travellermap.com/make/poster and returns an
     image in pdf format
@@ -443,6 +443,8 @@ def export_map(sector_data):
         'options': '25591',
         'style': 'poster'
          }
+    if map_size == 'subsector':
+        params['subsector'] = 'A' 
     headers = {
         'Content-Type': 'text/plain',
     }
