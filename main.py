@@ -114,7 +114,7 @@ def get_world(x = '0101'):
      6: 'D', 7 : 'V', 8: 'V', 9: 'VI', 10: 'D', 11: 'D', 12: 'D'
     }
 
-    name = str(new_name(15)).ljust(17)
+    name = str(new_name()).ljust(17)
 
     # System hex number
     coord = x
